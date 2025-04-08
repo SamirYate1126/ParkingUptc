@@ -20,7 +20,7 @@ public class FrameChangeCredentials extends JFrame {
         JPanel mainPanelObject = createMainPanel();
         add(mainPanelObject);
 
-        setVisible(true);
+        setVisible(false);
     }
 
     private JPanel createMainPanel() {
